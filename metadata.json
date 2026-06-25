@@ -1,0 +1,6 @@
+{
+  "name": "PlumbTrust Solutions",
+  "description": "A clean, premium website for a modern plumbing company, featuring a gorgeous hero section and local trust badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
